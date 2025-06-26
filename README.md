@@ -13,6 +13,4 @@ Realizando com javaScript, html,css e bootstrap.
 
 
 ### Demonstração
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/fogYoamNnnQ?si=q9bV9c1SUqfdYPi8" type="video/mp4">
-</video>
+[![Demostração Cardápio](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
