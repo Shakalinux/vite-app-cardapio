@@ -12,5 +12,6 @@ Algumas funcionalidades como:
 Realizando com javaScript, html,css e bootstrap.
 
 ### Demonstração do sistema
+Clique para iniciar o vídeo
 
-[![Demonstração do Sistema com Vite](http://img.youtube.com/vi/4/0.jpg)](http://www.youtube.com/watch?v=fogYoamNnnQ)
+[![Demonstração do Sistema com Vite](https://i.postimg.cc/pVK5wTjm/capa.png)](http://www.youtube.com/watch?v=fogYoamNnnQ)
