@@ -13,5 +13,4 @@ Realizando com javaScript, html,css e bootstrap.
 
 ### Demonstração do sistema
 
-[![Demosntração do SIstema de Cardápio com VIte](![image](https://github.com/user-attachments/assets/bec2f069-c4b2-4e89-8680-ad79b80d7db5)
-)](https://youtu.be/fogYoamNnnQ?si=68jdcY1MWthG94Ff)
+[![Demosntração do Sistema de Cardápio com VIte](https://youtu.be/fogYoamNnnQ?si=A1SY7tS54ohS9o_b)](https://youtu.be/fogYoamNnnQ?si=A1SY7tS54ohS9o_b)
